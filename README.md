@@ -1,6 +1,6 @@
 ### ✨ Hi there ✨
 
-🌱 Currently learning Vue.js
+🌱 Currently learning Vue.js and looking for an internship
 
 <!--
 **JulienMousset/JulienMousset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
